@@ -1,0 +1,1 @@
+d/dk ln(1/(gamma(k)*((u/k)^k))*(x^(k-1))*exp(-xk/u))
